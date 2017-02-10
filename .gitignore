@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/GoogleCharts/.vs
+/GoogleCharts/GoogleCharts/bin
+/GoogleCharts/GoogleCharts/obj/Debug
+/GoogleCharts/packages
